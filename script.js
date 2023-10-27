@@ -1,5 +1,5 @@
 var t = 0;
-var final = "Γ<sub>0</sub>";
+var final = "Δ<sub>0</sub>";
 
 var bits = [
   [[""],[""]],
@@ -25,6 +25,9 @@ var bits = [
   [["φ<sub>5</sub>("],[")"]],
   [["φ<sub>6</sub>("],[")"]],
   [["φ<sub>"],["</sub>(0)"]]
+   [["Γ<sub>5</sub>("],[")"]],
+  [["Γ<sub>6</sub>("],[")"]],
+  [["Γ<sub>"],["</sub>(0)"]]
 ];
 
 var limits = [
